@@ -1,4 +1,4 @@
-### Mockup Web page about cake
+### Mockup Web page
 Chandan Design Agency Website. Designed by Chandan Singh.
 
 https://www.figma.com/@uiuxchandan
