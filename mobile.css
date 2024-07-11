@@ -62,6 +62,9 @@ header {
 
 main {
   #hero {
+    h1 {
+      max-width: 320px
+    }
     .background {
       padding-top: 40px;
       background: var(--light-bg);
